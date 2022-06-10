@@ -1,3 +1,30 @@
 {
-  "name": "abdul moeed"
+  "about": {
+    "fullname": "Abdul Moeed",
+    "email": "anxiety2121@gmail.com",
+    "website": "hehe.com",
+    "address": "dark world",
+    "profileimage": "UwU",
+    "social": "idonthaveone.com/moeed"
+  },
+  "education": {
+    "school": "ST. mary's High School",
+    "college": "Edwardes College aka trash",
+    "university": "Comstatus"
+  },
+  "work": {
+    "work_1": "eat",
+    "work_2": "sleep",
+    "work_3": "die"
+  },
+  "skills": {
+    "skills_1": "cry",
+    "skills_2": "repeat",
+    "skills_3": "cry more"
+  },
+  "contact": {
+    "gmail": "anxiety2121@gmail.com",
+    "phone": "090078601",
+    "insta": "@bingus"
+  }
 }
